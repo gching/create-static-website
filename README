@@ -1,0 +1,6 @@
+# create-static-website
+
+Used for assisting in development of static websites. Express server included
+to for development cycle and Gulp used to generate static assets.
+
+*Work in progress.*
